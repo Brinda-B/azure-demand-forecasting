@@ -15,7 +15,7 @@ by integrating internal Azure usage metrics with external economic variables.
 The dataset contains the following columns:
 
 - time_stamp – Date and time of record
-- region – Azure deployment region (US-East, US-West, EU-Central, Asia-South)
+- region – Azure deployment region (US-East, EU-Central)
 - service_type – Type of service (Compute, Storage)
 - usage_units – Total resource usage
 - provisioned_capacity – Allocated system capacity
