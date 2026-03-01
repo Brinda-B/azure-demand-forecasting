@@ -46,11 +46,33 @@ The dataset contains the following columns:
 
 ---
 
+## Milestone 2: Feature Engineering
+
+- Created demand drivers
+- Added rolling and lag features
+- Implemented seasonality detection
+- Prepared model-ready dataset
+
+---
+
+### Engineered Features
+
+- capacity_utilization
+- cost_per_unit
+- usage_growth_rate
+- is_peak_season
+- rolling_3m_avg_usage
+- usage_spike_flag
+- lag_1_usage
+- lag_2_usage
+- external_demand_score
+
+---
+
 ## Future Work
 
-- Feature Engineering & Data Wrangling
-- Machine Learning Model Development
-- Forecast Integration & Capacity Planning
+- Milestone 3: Train and evaluate forecasting models (ARIMA, XGBoost) using MAE, RMSE, and bias with backtesting.
+- Milestone 4: Simulate model deployment and integrate forecasts with capacity planning logic.
 
 ---
 
