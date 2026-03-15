@@ -69,9 +69,18 @@ The dataset contains the following columns:
 
 ---
 
+## Milestone 3: Machine Learning Model Development
+
+- Implemented multiple forecasting models including Random Forest, XGBoost, and ARIMA.
+- Performed hyperparameter tuning using GridSearchCV for model optimization.
+- Evaluated model performance using MAE, RMSE, and forecast bias.
+- Compared model predictions against actual demand values.
+- Visualized forecast performance for model comparison.
+
+---
+
 ## Future Work
 
-- Milestone 3: Train and evaluate forecasting models (ARIMA, XGBoost) using MAE, RMSE, and bias with backtesting.
 - Milestone 4: Simulate model deployment and integrate forecasts with capacity planning logic.
 
 ---
