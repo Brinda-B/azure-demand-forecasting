@@ -86,6 +86,13 @@ The dataset contains the following columns:
 
 ---
 
+## Documentation
+
+Agile project documentation including sprint planning, milestone tracking,
+and development progress is included in the repository as an Excel file.
+
+---
+
 ## License
 
 This project is licensed under the MIT License.
