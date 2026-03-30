@@ -80,10 +80,21 @@ The dataset contains the following columns:
 
 ---
 
-## Future Work
+## Live Dashboard
+Access the deployed dashboard here: 
+https://azure-demand-forecasting-optimization.streamlit.app/
 
-- Milestone 4: Simulate model deployment and integrate forecasts with capacity planning logic.
+---
 
+## Milestone 4: Forecast Integration & Capacity Planning
+
+- Deployed the trained machine learning model using a Streamlit dashboard.
+- Enabled real-time demand prediction through user input interface.
+- Integrated model predictions into a simple interactive web application.
+- Implemented dynamic input-based forecasting for simulation of real-world usage.
+- Demonstrated model accessibility through a live deployed dashboard link.
+- Established a basic framework for automation and monitoring of predictions.
+  
 ---
 
 ## Documentation
