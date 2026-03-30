@@ -93,7 +93,6 @@ https://azure-demand-forecasting-optimization.streamlit.app/
 - Integrated model predictions into a simple interactive web application.
 - Implemented dynamic input-based forecasting for simulation of real-world usage.
 - Demonstrated model accessibility through a live deployed dashboard link.
-- Established a basic framework for automation and monitoring of predictions.
   
 ---
 
