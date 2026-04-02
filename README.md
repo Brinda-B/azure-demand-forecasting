@@ -31,9 +31,11 @@ The dataset contains the following columns:
 - Python
 - Pandas
 - NumPy
+- XGBoost
+- Joblib
+- Streamlit
 - Plotly (Visualization)
 - Google Colab
-- GitHub
 
 ---
 
@@ -98,9 +100,9 @@ https://azure-demand-forecasting-optimization.streamlit.app/
 
 ## Documentation
 
-Agile project documentation including sprint planning, milestone tracking,
-and development progress is included in the repository as an Excel file.
-
+- Agile project
+- Defect Tracker
+- Unit Testing
 ---
 
 ## License
